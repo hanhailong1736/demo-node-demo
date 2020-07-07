@@ -1,0 +1,50 @@
+{
+    "name": "demo",
+    "version": "1.0.0",
+    "description": "> 作者：韩海龙 <hlmyprivate@163.com> 后端项目demo",
+    "main": "app.js",
+    "scripts": {
+        "create": "cross-env NODE_ENV=development node init-db.js",
+        "start": "cross-env NODE_ENV=development hotnode youxi-app.js",
+        "create-online": "env NODE_ENV=production node init-db.js",
+        "start-online": "env NODE_ENV=production node youxi-app.js",
+        "build": "env NODE_ENV=production pm2 restart youxi-app.js --watch"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/hanhailong1736/node-demo.git"
+    },
+    "author": "hanhailong",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.18.3",
+        "cheerio": "^1.0.0-rc.3",
+        "cookie-parser": "^1.4.3",
+        "cors": "^2.8.5",
+        "crypto": "^1.0.1",
+        "express": "^4.16.4",
+        "formidable": "^1.2.2",
+        "hotnode": "0.0.8",
+        "jsonwebtoken": "^8.5.1",
+        "koa": "^2.13.0",
+        "koa-bodyparser": "^4.3.0",
+        "koa-router": "^9.0.1",
+        "md5-node": "^1.0.1",
+        "multer": "^1.4.1",
+        "mysql": "^2.16.0",
+        "mysql2": "^2.1.0",
+        "node-uuid": "^1.4.8",
+        "nodemailer": "^6.4.10",
+        "redis": "^3.0.2",
+        "request": "^2.88.0",
+        "sequelize": "^5.21.13",
+        "superagent": "^5.0.5",
+        "superagent-charset": "^1.2.0",
+        "xml2js": "^0.4.23",
+        "xmlreader": "^0.2.3"
+    },
+    "homepage": "https://github.com/hanhailong1736/node-demo#readme",
+    "devDependencies": {
+        "cross-env": "^7.0.2"
+    }
+}
