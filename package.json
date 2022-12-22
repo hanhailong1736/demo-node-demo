@@ -25,7 +25,7 @@
         "express": "^4.16.4",
         "formidable": "^1.2.2",
         "hotnode": "0.0.8",
-        "jsonwebtoken": "^8.5.1",
+        "jsonwebtoken": "^9.0.0",
         "koa": "^2.13.0",
         "koa-bodyparser": "^4.3.0",
         "koa-router": "^9.0.1",
