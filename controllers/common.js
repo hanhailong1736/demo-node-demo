@@ -8,20 +8,17 @@ router.all("/hone/statisticsReport", async (req, res) => {
   if (Object.keys(params).length == 0) {
     params = req.query;
   }
-  if (params.rangeDate) {
-    params.rangeDate = JSON.parse(params.rangeDate)
-  }
   let list = [];
   let data = result.data
   if (data&&data.length) {
-    if (!params.lastDate && !params.rangeDate) {
+    if (!params.lastDate && !params.startDate) {
       list = data;
     } else {
       for (let index = 0; index < data.length; index++) {
         const element = data[index];
         if (params.lastDate) {
-          if (params.rangeDate) {
-            if (element.name>=params.lastDate&&element.name>=params.rangeDate[0]&&element.name<=params.rangeDate[1]) {
+          if (params.startDate) {
+            if (element.name>=params.lastDate&&element.name>=params.startDate&&element.name<=params.endDate) {
               list.push(element)  
             }
           }else{
@@ -30,7 +27,7 @@ router.all("/hone/statisticsReport", async (req, res) => {
             }
           }
         }else{
-          if (element.name>=params.rangeDate[0]&&element.name<=params.rangeDate[1]) {
+          if (element.name>=params.startDate&&element.name<=params.endDate) {
             list.push(element)  
           }
         }

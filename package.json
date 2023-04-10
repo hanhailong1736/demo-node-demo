@@ -6,9 +6,9 @@
     "scripts": {
         "create": "cross-env NODE_ENV=development node init-db.js",
         "start": "cross-env NODE_ENV=development hotnode youxi-app.js",
-        "create-online": "env NODE_ENV=production node init-db.js",
-        "start-online": "env NODE_ENV=production node youxi-app.js",
-        "build": "env NODE_ENV=production pm2 restart youxi-app.js --watch"
+        "create-online": "cross-env NODE_ENV=production node init-db.js",
+        "start-online": "cross-env NODE_ENV=production node youxi-app.js",
+        "build": "cross-env NODE_ENV=production pm2 start youxi-app.js --watch"
     },
     "repository": {
         "type": "git",
