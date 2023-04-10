@@ -6,46 +6,61 @@ const redis = require('redis');
 // const uuid = require('node-uuid');
 const app = express()
 app.use(cors()); //解决跨越
+app.use(bodyParser.json({ limit: '20mb' })); //json请求
 app.use(bodyParser.json()); //json请求
 //application/x-www-form        {extended:true}
 app.use(bodyParser.urlencoded({
     extended: false
 })); //表单请求
-app.listen(9000, () => console.log("服务启动,访问地址为：9000"));
+app.listen(9006, () => console.log("服务启动,访问地址为：9006"));
 app.use(cookieParser());
 
-const router = express.Router();
+/*
 const mysql = require('mysql');
 
-const config = require('./config')
+const config = require('../config')
+    //定义连接池
+const pool = mysql.createPool({
+    host: config.host,
+    user: config.username,
+    password: config.password,
+    database: config.database,
+    port: config.port,
+    connectTimeout: 5000,
+    multipleStatements: false, //是否允许一个query包含多条sql语句
+    waitForConnections: true, //当无连接可用时，等待还是抛错
+    connectLimit: 1000, //连接数
+    queueLimit: 0 //最大连接等待数（0为不限制）
+}); //创建连接池
+pool.on('error', function(err) {
+    console.log('db error', err);
+    // 如果是连接断开，自动重新连接
+    if (err.code === 'PROTOCOL_CONNECTION_LOST') {
+        setTimeout(connPool, 2000);
+    } else {
+        throw err;
+    }
+});
 
-//定义连接池
-const connPool = function() {
-    const conn = mysql.createPool({
-        host: config.host,
-        user: config.username,
-        password: config.password,
-        database: config.database,
-        port: config.port,
-        connectTimeout: 5000,
-        multipleStatements: false, //是否允许一个query包含多条sql语句
-        waitForConnections: true, //当无连接可用时，等待还是抛错
-        connectLimit: 100, //连接数
-        queueLimit: 0 //最大连接等待数（0为不限制）
-    }); //创建连接池
-
-    conn.on('error', function(err) {
-        console.log('db error', err);
-        // 如果是连接断开，自动重新连接
-        if (err.code === 'PROTOCOL_CONNECTION_LOST') {
-            setTimeout(connPool, 2000);
-        } else {
-            throw err;
-        }
-    });
-    return conn;
+let service = function(sql, values) {
+    return new Promise((resolve, reject) => {
+        pool.getConnection(function(err, conn) {
+            if (err) {
+                reject(err)
+            } else {
+                conn.query(sql, values, (err, rows) => {
+                    if (err) {
+                        reject(err)
+                    } else {
+                        resolve(rows)
+                    }
+                    conn.release()
+                })
+            }
+        })
+    })
 }
-
+*/
 
 const createRedis = function() {
     if (!this.cacherTask) {
@@ -95,33 +110,9 @@ const redisCache = function() {
         }
     }
 };
-/*
-error_code:错误列表
 
-error_code: 400,
-message: '请求错误',//具体错误信息
-
-error_code: 1001,
-message: '参数错误或缺失',
-
-error_code: 1002,
-message: '未登录或登录过期',
-
-*/
-function Result({
-    error_code = 0,
-    message = 'request:OK!',
-    data = {}
-}) {
-    this.error_code = error_code;
-    this.message = message;
-    this.data = data;
-}
 module.exports = {
     app,
-    connPool,
-    router,
-    Result,
     redisCache
 };
 /*

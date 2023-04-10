@@ -1,9 +1,9 @@
 function Result({
-    error_code = 0,
+    code = 200,
     message = 'request:OK!',
     data = {}
 }) {
-    this.error_code = error_code;
+    this.code = code;
     this.message = message;
     this.data = data;
 }

@@ -1,3 +1,3 @@
-const { app, router } = require('../app-connect');
+const { app } = require('../app-connect');
 
-const view = require('../controllers/view');
+app.use('/', require('../controllers/common'));
