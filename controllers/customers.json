@@ -1,0 +1,2227 @@
+{
+	"data": [{
+		"type": "Demo Customers",
+		"name": "2020-03-09 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2020-03-09 00:00:00",
+		"value": 1
+	}, {
+		"type": "Trial Customers",
+		"name": "2020-03-09 00:00:00",
+		"value": 0
+	}, {
+		"type": "Total Customers",
+		"name": "2020-03-09 00:00:00",
+		"value": 1
+	}, {
+		"type": "Demo Customers",
+		"name": "2020-08-05 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2020-08-05 00:00:00",
+		"value": 1
+	}, {
+		"type": "Trial Customers",
+		"name": "2020-08-05 00:00:00",
+		"value": 1
+	}, {
+		"type": "Total Customers",
+		"name": "2020-08-05 00:00:00",
+		"value": 2
+	}, {
+		"type": "Demo Customers",
+		"name": "2020-08-07 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2020-08-07 00:00:00",
+		"value": 1
+	}, {
+		"type": "Trial Customers",
+		"name": "2020-08-07 00:00:00",
+		"value": 2
+	}, {
+		"type": "Total Customers",
+		"name": "2020-08-07 00:00:00",
+		"value": 3
+	}, {
+		"type": "Demo Customers",
+		"name": "2020-08-10 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2020-08-10 00:00:00",
+		"value": 1
+	}, {
+		"type": "Trial Customers",
+		"name": "2020-08-10 00:00:00",
+		"value": 3
+	}, {
+		"type": "Total Customers",
+		"name": "2020-08-10 00:00:00",
+		"value": 4
+	}, {
+		"type": "Demo Customers",
+		"name": "2020-09-03 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2020-09-03 00:00:00",
+		"value": 1
+	}, {
+		"type": "Trial Customers",
+		"name": "2020-09-03 00:00:00",
+		"value": 5
+	}, {
+		"type": "Total Customers",
+		"name": "2020-09-03 00:00:00",
+		"value": 6
+	}, {
+		"type": "Demo Customers",
+		"name": "2020-09-09 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2020-09-09 00:00:00",
+		"value": 1
+	}, {
+		"type": "Trial Customers",
+		"name": "2020-09-09 00:00:00",
+		"value": 6
+	}, {
+		"type": "Total Customers",
+		"name": "2020-09-09 00:00:00",
+		"value": 7
+	}, {
+		"type": "Demo Customers",
+		"name": "2020-09-30 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2020-09-30 00:00:00",
+		"value": 1
+	}, {
+		"type": "Trial Customers",
+		"name": "2020-09-30 00:00:00",
+		"value": 7
+	}, {
+		"type": "Total Customers",
+		"name": "2020-09-30 00:00:00",
+		"value": 8
+	}, {
+		"type": "Demo Customers",
+		"name": "2020-10-04 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2020-10-04 00:00:00",
+		"value": 1
+	}, {
+		"type": "Trial Customers",
+		"name": "2020-10-04 00:00:00",
+		"value": 8
+	}, {
+		"type": "Total Customers",
+		"name": "2020-10-04 00:00:00",
+		"value": 9
+	}, {
+		"type": "Demo Customers",
+		"name": "2020-10-31 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2020-10-31 00:00:00",
+		"value": 2
+	}, {
+		"type": "Trial Customers",
+		"name": "2020-10-31 00:00:00",
+		"value": 8
+	}, {
+		"type": "Total Customers",
+		"name": "2020-10-31 00:00:00",
+		"value": 10
+	}, {
+		"type": "Demo Customers",
+		"name": "2020-11-02 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2020-11-02 00:00:00",
+		"value": 2
+	}, {
+		"type": "Trial Customers",
+		"name": "2020-11-02 00:00:00",
+		"value": 9
+	}, {
+		"type": "Total Customers",
+		"name": "2020-11-02 00:00:00",
+		"value": 11
+	}, {
+		"type": "Demo Customers",
+		"name": "2021-01-13 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2021-01-13 00:00:00",
+		"value": 2
+	}, {
+		"type": "Trial Customers",
+		"name": "2021-01-13 00:00:00",
+		"value": 10
+	}, {
+		"type": "Total Customers",
+		"name": "2021-01-13 00:00:00",
+		"value": 12
+	}, {
+		"type": "Demo Customers",
+		"name": "2021-02-12 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2021-02-12 00:00:00",
+		"value": 2
+	}, {
+		"type": "Trial Customers",
+		"name": "2021-02-12 00:00:00",
+		"value": 11
+	}, {
+		"type": "Total Customers",
+		"name": "2021-02-12 00:00:00",
+		"value": 13
+	}, {
+		"type": "Demo Customers",
+		"name": "2021-02-18 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2021-02-18 00:00:00",
+		"value": 3
+	}, {
+		"type": "Trial Customers",
+		"name": "2021-02-18 00:00:00",
+		"value": 12
+	}, {
+		"type": "Total Customers",
+		"name": "2021-02-18 00:00:00",
+		"value": 15
+	}, {
+		"type": "Demo Customers",
+		"name": "2021-03-02 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2021-03-02 00:00:00",
+		"value": 3
+	}, {
+		"type": "Trial Customers",
+		"name": "2021-03-02 00:00:00",
+		"value": 13
+	}, {
+		"type": "Total Customers",
+		"name": "2021-03-02 00:00:00",
+		"value": 16
+	}, {
+		"type": "Demo Customers",
+		"name": "2021-03-09 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2021-03-09 00:00:00",
+		"value": 3
+	}, {
+		"type": "Trial Customers",
+		"name": "2021-03-09 00:00:00",
+		"value": 14
+	}, {
+		"type": "Total Customers",
+		"name": "2021-03-09 00:00:00",
+		"value": 17
+	}, {
+		"type": "Demo Customers",
+		"name": "2021-03-16 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2021-03-16 00:00:00",
+		"value": 3
+	}, {
+		"type": "Trial Customers",
+		"name": "2021-03-16 00:00:00",
+		"value": 15
+	}, {
+		"type": "Total Customers",
+		"name": "2021-03-16 00:00:00",
+		"value": 18
+	}, {
+		"type": "Demo Customers",
+		"name": "2021-03-18 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2021-03-18 00:00:00",
+		"value": 4
+	}, {
+		"type": "Trial Customers",
+		"name": "2021-03-18 00:00:00",
+		"value": 15
+	}, {
+		"type": "Total Customers",
+		"name": "2021-03-18 00:00:00",
+		"value": 19
+	}, {
+		"type": "Demo Customers",
+		"name": "2021-03-19 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2021-03-19 00:00:00",
+		"value": 5
+	}, {
+		"type": "Trial Customers",
+		"name": "2021-03-19 00:00:00",
+		"value": 15
+	}, {
+		"type": "Total Customers",
+		"name": "2021-03-19 00:00:00",
+		"value": 20
+	}, {
+		"type": "Demo Customers",
+		"name": "2021-04-19 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2021-04-19 00:00:00",
+		"value": 5
+	}, {
+		"type": "Trial Customers",
+		"name": "2021-04-19 00:00:00",
+		"value": 16
+	}, {
+		"type": "Total Customers",
+		"name": "2021-04-19 00:00:00",
+		"value": 21
+	}, {
+		"type": "Demo Customers",
+		"name": "2021-05-18 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2021-05-18 00:00:00",
+		"value": 5
+	}, {
+		"type": "Trial Customers",
+		"name": "2021-05-18 00:00:00",
+		"value": 17
+	}, {
+		"type": "Total Customers",
+		"name": "2021-05-18 00:00:00",
+		"value": 22
+	}, {
+		"type": "Demo Customers",
+		"name": "2021-06-03 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2021-06-03 00:00:00",
+		"value": 5
+	}, {
+		"type": "Trial Customers",
+		"name": "2021-06-03 00:00:00",
+		"value": 18
+	}, {
+		"type": "Total Customers",
+		"name": "2021-06-03 00:00:00",
+		"value": 23
+	}, {
+		"type": "Demo Customers",
+		"name": "2021-06-10 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2021-06-10 00:00:00",
+		"value": 6
+	}, {
+		"type": "Trial Customers",
+		"name": "2021-06-10 00:00:00",
+		"value": 18
+	}, {
+		"type": "Total Customers",
+		"name": "2021-06-10 00:00:00",
+		"value": 24
+	}, {
+		"type": "Demo Customers",
+		"name": "2021-06-11 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2021-06-11 00:00:00",
+		"value": 6
+	}, {
+		"type": "Trial Customers",
+		"name": "2021-06-11 00:00:00",
+		"value": 19
+	}, {
+		"type": "Total Customers",
+		"name": "2021-06-11 00:00:00",
+		"value": 25
+	}, {
+		"type": "Demo Customers",
+		"name": "2021-06-17 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2021-06-17 00:00:00",
+		"value": 7
+	}, {
+		"type": "Trial Customers",
+		"name": "2021-06-17 00:00:00",
+		"value": 19
+	}, {
+		"type": "Total Customers",
+		"name": "2021-06-17 00:00:00",
+		"value": 26
+	}, {
+		"type": "Demo Customers",
+		"name": "2021-06-21 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2021-06-21 00:00:00",
+		"value": 7
+	}, {
+		"type": "Trial Customers",
+		"name": "2021-06-21 00:00:00",
+		"value": 20
+	}, {
+		"type": "Total Customers",
+		"name": "2021-06-21 00:00:00",
+		"value": 27
+	}, {
+		"type": "Demo Customers",
+		"name": "2021-06-25 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2021-06-25 00:00:00",
+		"value": 7
+	}, {
+		"type": "Trial Customers",
+		"name": "2021-06-25 00:00:00",
+		"value": 21
+	}, {
+		"type": "Total Customers",
+		"name": "2021-06-25 00:00:00",
+		"value": 28
+	}, {
+		"type": "Demo Customers",
+		"name": "2021-07-07 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2021-07-07 00:00:00",
+		"value": 8
+	}, {
+		"type": "Trial Customers",
+		"name": "2021-07-07 00:00:00",
+		"value": 21
+	}, {
+		"type": "Total Customers",
+		"name": "2021-07-07 00:00:00",
+		"value": 29
+	}, {
+		"type": "Demo Customers",
+		"name": "2021-07-13 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2021-07-13 00:00:00",
+		"value": 8
+	}, {
+		"type": "Trial Customers",
+		"name": "2021-07-13 00:00:00",
+		"value": 22
+	}, {
+		"type": "Total Customers",
+		"name": "2021-07-13 00:00:00",
+		"value": 30
+	}, {
+		"type": "Demo Customers",
+		"name": "2021-07-14 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2021-07-14 00:00:00",
+		"value": 8
+	}, {
+		"type": "Trial Customers",
+		"name": "2021-07-14 00:00:00",
+		"value": 23
+	}, {
+		"type": "Total Customers",
+		"name": "2021-07-14 00:00:00",
+		"value": 31
+	}, {
+		"type": "Demo Customers",
+		"name": "2021-09-22 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2021-09-22 00:00:00",
+		"value": 8
+	}, {
+		"type": "Trial Customers",
+		"name": "2021-09-22 00:00:00",
+		"value": 24
+	}, {
+		"type": "Total Customers",
+		"name": "2021-09-22 00:00:00",
+		"value": 32
+	}, {
+		"type": "Demo Customers",
+		"name": "2021-10-05 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2021-10-05 00:00:00",
+		"value": 8
+	}, {
+		"type": "Trial Customers",
+		"name": "2021-10-05 00:00:00",
+		"value": 25
+	}, {
+		"type": "Total Customers",
+		"name": "2021-10-05 00:00:00",
+		"value": 33
+	}, {
+		"type": "Demo Customers",
+		"name": "2021-10-08 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2021-10-08 00:00:00",
+		"value": 8
+	}, {
+		"type": "Trial Customers",
+		"name": "2021-10-08 00:00:00",
+		"value": 26
+	}, {
+		"type": "Total Customers",
+		"name": "2021-10-08 00:00:00",
+		"value": 34
+	}, {
+		"type": "Demo Customers",
+		"name": "2021-10-21 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2021-10-21 00:00:00",
+		"value": 8
+	}, {
+		"type": "Trial Customers",
+		"name": "2021-10-21 00:00:00",
+		"value": 27
+	}, {
+		"type": "Total Customers",
+		"name": "2021-10-21 00:00:00",
+		"value": 35
+	}, {
+		"type": "Demo Customers",
+		"name": "2021-11-01 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2021-11-01 00:00:00",
+		"value": 8
+	}, {
+		"type": "Trial Customers",
+		"name": "2021-11-01 00:00:00",
+		"value": 28
+	}, {
+		"type": "Total Customers",
+		"name": "2021-11-01 00:00:00",
+		"value": 36
+	}, {
+		"type": "Demo Customers",
+		"name": "2021-11-03 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2021-11-03 00:00:00",
+		"value": 8
+	}, {
+		"type": "Trial Customers",
+		"name": "2021-11-03 00:00:00",
+		"value": 29
+	}, {
+		"type": "Total Customers",
+		"name": "2021-11-03 00:00:00",
+		"value": 37
+	}, {
+		"type": "Demo Customers",
+		"name": "2021-11-15 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2021-11-15 00:00:00",
+		"value": 8
+	}, {
+		"type": "Trial Customers",
+		"name": "2021-11-15 00:00:00",
+		"value": 30
+	}, {
+		"type": "Total Customers",
+		"name": "2021-11-15 00:00:00",
+		"value": 38
+	}, {
+		"type": "Demo Customers",
+		"name": "2021-12-09 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2021-12-09 00:00:00",
+		"value": 8
+	}, {
+		"type": "Trial Customers",
+		"name": "2021-12-09 00:00:00",
+		"value": 31
+	}, {
+		"type": "Total Customers",
+		"name": "2021-12-09 00:00:00",
+		"value": 39
+	}, {
+		"type": "Demo Customers",
+		"name": "2021-12-25 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2021-12-25 00:00:00",
+		"value": 8
+	}, {
+		"type": "Trial Customers",
+		"name": "2021-12-25 00:00:00",
+		"value": 32
+	}, {
+		"type": "Total Customers",
+		"name": "2021-12-25 00:00:00",
+		"value": 40
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-01-05 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-01-05 00:00:00",
+		"value": 8
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-01-05 00:00:00",
+		"value": 33
+	}, {
+		"type": "Total Customers",
+		"name": "2022-01-05 00:00:00",
+		"value": 41
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-01-17 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-01-17 00:00:00",
+		"value": 8
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-01-17 00:00:00",
+		"value": 34
+	}, {
+		"type": "Total Customers",
+		"name": "2022-01-17 00:00:00",
+		"value": 42
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-01-19 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-01-19 00:00:00",
+		"value": 8
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-01-19 00:00:00",
+		"value": 36
+	}, {
+		"type": "Total Customers",
+		"name": "2022-01-19 00:00:00",
+		"value": 44
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-01-20 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-01-20 00:00:00",
+		"value": 9
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-01-20 00:00:00",
+		"value": 37
+	}, {
+		"type": "Total Customers",
+		"name": "2022-01-20 00:00:00",
+		"value": 46
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-01-22 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-01-22 00:00:00",
+		"value": 9
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-01-22 00:00:00",
+		"value": 39
+	}, {
+		"type": "Total Customers",
+		"name": "2022-01-22 00:00:00",
+		"value": 48
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-01-23 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-01-23 00:00:00",
+		"value": 9
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-01-23 00:00:00",
+		"value": 40
+	}, {
+		"type": "Total Customers",
+		"name": "2022-01-23 00:00:00",
+		"value": 49
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-01-30 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-01-30 00:00:00",
+		"value": 9
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-01-30 00:00:00",
+		"value": 41
+	}, {
+		"type": "Total Customers",
+		"name": "2022-01-30 00:00:00",
+		"value": 50
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-02-07 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-02-07 00:00:00",
+		"value": 9
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-02-07 00:00:00",
+		"value": 42
+	}, {
+		"type": "Total Customers",
+		"name": "2022-02-07 00:00:00",
+		"value": 51
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-02-09 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-02-09 00:00:00",
+		"value": 10
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-02-09 00:00:00",
+		"value": 43
+	}, {
+		"type": "Total Customers",
+		"name": "2022-02-09 00:00:00",
+		"value": 53
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-02-17 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-02-17 00:00:00",
+		"value": 10
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-02-17 00:00:00",
+		"value": 46
+	}, {
+		"type": "Total Customers",
+		"name": "2022-02-17 00:00:00",
+		"value": 56
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-03-01 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-03-01 00:00:00",
+		"value": 11
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-03-01 00:00:00",
+		"value": 46
+	}, {
+		"type": "Total Customers",
+		"name": "2022-03-01 00:00:00",
+		"value": 57
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-03-10 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-03-10 00:00:00",
+		"value": 11
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-03-10 00:00:00",
+		"value": 47
+	}, {
+		"type": "Total Customers",
+		"name": "2022-03-10 00:00:00",
+		"value": 58
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-03-14 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-03-14 00:00:00",
+		"value": 11
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-03-14 00:00:00",
+		"value": 48
+	}, {
+		"type": "Total Customers",
+		"name": "2022-03-14 00:00:00",
+		"value": 59
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-03-22 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-03-22 00:00:00",
+		"value": 12
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-03-22 00:00:00",
+		"value": 49
+	}, {
+		"type": "Total Customers",
+		"name": "2022-03-22 00:00:00",
+		"value": 61
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-03-24 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-03-24 00:00:00",
+		"value": 12
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-03-24 00:00:00",
+		"value": 50
+	}, {
+		"type": "Total Customers",
+		"name": "2022-03-24 00:00:00",
+		"value": 62
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-03-25 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-03-25 00:00:00",
+		"value": 12
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-03-25 00:00:00",
+		"value": 51
+	}, {
+		"type": "Total Customers",
+		"name": "2022-03-25 00:00:00",
+		"value": 63
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-03-30 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-03-30 00:00:00",
+		"value": 13
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-03-30 00:00:00",
+		"value": 52
+	}, {
+		"type": "Total Customers",
+		"name": "2022-03-30 00:00:00",
+		"value": 65
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-04-02 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-04-02 00:00:00",
+		"value": 13
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-04-02 00:00:00",
+		"value": 53
+	}, {
+		"type": "Total Customers",
+		"name": "2022-04-02 00:00:00",
+		"value": 66
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-04-05 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-04-05 00:00:00",
+		"value": 13
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-04-05 00:00:00",
+		"value": 55
+	}, {
+		"type": "Total Customers",
+		"name": "2022-04-05 00:00:00",
+		"value": 68
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-04-13 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-04-13 00:00:00",
+		"value": 13
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-04-13 00:00:00",
+		"value": 56
+	}, {
+		"type": "Total Customers",
+		"name": "2022-04-13 00:00:00",
+		"value": 69
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-04-18 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-04-18 00:00:00",
+		"value": 13
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-04-18 00:00:00",
+		"value": 57
+	}, {
+		"type": "Total Customers",
+		"name": "2022-04-18 00:00:00",
+		"value": 70
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-05-02 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-05-02 00:00:00",
+		"value": 13
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-05-02 00:00:00",
+		"value": 58
+	}, {
+		"type": "Total Customers",
+		"name": "2022-05-02 00:00:00",
+		"value": 71
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-05-05 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-05-05 00:00:00",
+		"value": 14
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-05-05 00:00:00",
+		"value": 58
+	}, {
+		"type": "Total Customers",
+		"name": "2022-05-05 00:00:00",
+		"value": 72
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-05-08 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-05-08 00:00:00",
+		"value": 14
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-05-08 00:00:00",
+		"value": 59
+	}, {
+		"type": "Total Customers",
+		"name": "2022-05-08 00:00:00",
+		"value": 73
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-05-11 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-05-11 00:00:00",
+		"value": 14
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-05-11 00:00:00",
+		"value": 60
+	}, {
+		"type": "Total Customers",
+		"name": "2022-05-11 00:00:00",
+		"value": 74
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-05-19 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-05-19 00:00:00",
+		"value": 15
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-05-19 00:00:00",
+		"value": 60
+	}, {
+		"type": "Total Customers",
+		"name": "2022-05-19 00:00:00",
+		"value": 75
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-05-20 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-05-20 00:00:00",
+		"value": 16
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-05-20 00:00:00",
+		"value": 60
+	}, {
+		"type": "Total Customers",
+		"name": "2022-05-20 00:00:00",
+		"value": 76
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-05-24 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-05-24 00:00:00",
+		"value": 17
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-05-24 00:00:00",
+		"value": 60
+	}, {
+		"type": "Total Customers",
+		"name": "2022-05-24 00:00:00",
+		"value": 77
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-06-01 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-06-01 00:00:00",
+		"value": 18
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-06-01 00:00:00",
+		"value": 61
+	}, {
+		"type": "Total Customers",
+		"name": "2022-06-01 00:00:00",
+		"value": 79
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-06-08 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-06-08 00:00:00",
+		"value": 19
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-06-08 00:00:00",
+		"value": 61
+	}, {
+		"type": "Total Customers",
+		"name": "2022-06-08 00:00:00",
+		"value": 80
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-06-14 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-06-14 00:00:00",
+		"value": 19
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-06-14 00:00:00",
+		"value": 62
+	}, {
+		"type": "Total Customers",
+		"name": "2022-06-14 00:00:00",
+		"value": 81
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-06-15 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-06-15 00:00:00",
+		"value": 20
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-06-15 00:00:00",
+		"value": 62
+	}, {
+		"type": "Total Customers",
+		"name": "2022-06-15 00:00:00",
+		"value": 82
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-06-22 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-06-22 00:00:00",
+		"value": 20
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-06-22 00:00:00",
+		"value": 63
+	}, {
+		"type": "Total Customers",
+		"name": "2022-06-22 00:00:00",
+		"value": 83
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-06-23 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-06-23 00:00:00",
+		"value": 20
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-06-23 00:00:00",
+		"value": 64
+	}, {
+		"type": "Total Customers",
+		"name": "2022-06-23 00:00:00",
+		"value": 84
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-06-27 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-06-27 00:00:00",
+		"value": 21
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-06-27 00:00:00",
+		"value": 64
+	}, {
+		"type": "Total Customers",
+		"name": "2022-06-27 00:00:00",
+		"value": 85
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-07-05 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-07-05 00:00:00",
+		"value": 22
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-07-05 00:00:00",
+		"value": 64
+	}, {
+		"type": "Total Customers",
+		"name": "2022-07-05 00:00:00",
+		"value": 86
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-07-11 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-07-11 00:00:00",
+		"value": 22
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-07-11 00:00:00",
+		"value": 65
+	}, {
+		"type": "Total Customers",
+		"name": "2022-07-11 00:00:00",
+		"value": 87
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-07-14 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-07-14 00:00:00",
+		"value": 23
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-07-14 00:00:00",
+		"value": 66
+	}, {
+		"type": "Total Customers",
+		"name": "2022-07-14 00:00:00",
+		"value": 89
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-07-21 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-07-21 00:00:00",
+		"value": 24
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-07-21 00:00:00",
+		"value": 66
+	}, {
+		"type": "Total Customers",
+		"name": "2022-07-21 00:00:00",
+		"value": 90
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-07-22 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-07-22 00:00:00",
+		"value": 24
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-07-22 00:00:00",
+		"value": 68
+	}, {
+		"type": "Total Customers",
+		"name": "2022-07-22 00:00:00",
+		"value": 92
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-07-26 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-07-26 00:00:00",
+		"value": 25
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-07-26 00:00:00",
+		"value": 68
+	}, {
+		"type": "Total Customers",
+		"name": "2022-07-26 00:00:00",
+		"value": 93
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-07-28 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-07-28 00:00:00",
+		"value": 25
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-07-28 00:00:00",
+		"value": 69
+	}, {
+		"type": "Total Customers",
+		"name": "2022-07-28 00:00:00",
+		"value": 94
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-08-03 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-08-03 00:00:00",
+		"value": 25
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-08-03 00:00:00",
+		"value": 70
+	}, {
+		"type": "Total Customers",
+		"name": "2022-08-03 00:00:00",
+		"value": 95
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-08-10 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-08-10 00:00:00",
+		"value": 27
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-08-10 00:00:00",
+		"value": 71
+	}, {
+		"type": "Total Customers",
+		"name": "2022-08-10 00:00:00",
+		"value": 98
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-09-08 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-09-08 00:00:00",
+		"value": 27
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-09-08 00:00:00",
+		"value": 73
+	}, {
+		"type": "Total Customers",
+		"name": "2022-09-08 00:00:00",
+		"value": 100
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-09-20 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-09-20 00:00:00",
+		"value": 27
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-09-20 00:00:00",
+		"value": 74
+	}, {
+		"type": "Total Customers",
+		"name": "2022-09-20 00:00:00",
+		"value": 101
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-09-22 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-09-22 00:00:00",
+		"value": 27
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-09-22 00:00:00",
+		"value": 75
+	}, {
+		"type": "Total Customers",
+		"name": "2022-09-22 00:00:00",
+		"value": 102
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-09-23 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-09-23 00:00:00",
+		"value": 28
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-09-23 00:00:00",
+		"value": 76
+	}, {
+		"type": "Total Customers",
+		"name": "2022-09-23 00:00:00",
+		"value": 104
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-09-29 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-09-29 00:00:00",
+		"value": 28
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-09-29 00:00:00",
+		"value": 77
+	}, {
+		"type": "Total Customers",
+		"name": "2022-09-29 00:00:00",
+		"value": 105
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-10-05 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-10-05 00:00:00",
+		"value": 29
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-10-05 00:00:00",
+		"value": 77
+	}, {
+		"type": "Total Customers",
+		"name": "2022-10-05 00:00:00",
+		"value": 106
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-10-10 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-10-10 00:00:00",
+		"value": 29
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-10-10 00:00:00",
+		"value": 78
+	}, {
+		"type": "Total Customers",
+		"name": "2022-10-10 00:00:00",
+		"value": 107
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-10-12 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-10-12 00:00:00",
+		"value": 30
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-10-12 00:00:00",
+		"value": 78
+	}, {
+		"type": "Total Customers",
+		"name": "2022-10-12 00:00:00",
+		"value": 108
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-10-17 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-10-17 00:00:00",
+		"value": 30
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-10-17 00:00:00",
+		"value": 79
+	}, {
+		"type": "Total Customers",
+		"name": "2022-10-17 00:00:00",
+		"value": 109
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-10-28 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-10-28 00:00:00",
+		"value": 30
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-10-28 00:00:00",
+		"value": 80
+	}, {
+		"type": "Total Customers",
+		"name": "2022-10-28 00:00:00",
+		"value": 110
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-11-02 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-11-02 00:00:00",
+		"value": 31
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-11-02 00:00:00",
+		"value": 80
+	}, {
+		"type": "Total Customers",
+		"name": "2022-11-02 00:00:00",
+		"value": 111
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-11-07 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-11-07 00:00:00",
+		"value": 31
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-11-07 00:00:00",
+		"value": 81
+	}, {
+		"type": "Total Customers",
+		"name": "2022-11-07 00:00:00",
+		"value": 112
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-11-08 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-11-08 00:00:00",
+		"value": 31
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-11-08 00:00:00",
+		"value": 82
+	}, {
+		"type": "Total Customers",
+		"name": "2022-11-08 00:00:00",
+		"value": 113
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-11-15 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-11-15 00:00:00",
+		"value": 31
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-11-15 00:00:00",
+		"value": 83
+	}, {
+		"type": "Total Customers",
+		"name": "2022-11-15 00:00:00",
+		"value": 114
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-11-18 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-11-18 00:00:00",
+		"value": 31
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-11-18 00:00:00",
+		"value": 84
+	}, {
+		"type": "Total Customers",
+		"name": "2022-11-18 00:00:00",
+		"value": 115
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-11-21 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-11-21 00:00:00",
+		"value": 31
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-11-21 00:00:00",
+		"value": 85
+	}, {
+		"type": "Total Customers",
+		"name": "2022-11-21 00:00:00",
+		"value": 116
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-11-24 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-11-24 00:00:00",
+		"value": 32
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-11-24 00:00:00",
+		"value": 85
+	}, {
+		"type": "Total Customers",
+		"name": "2022-11-24 00:00:00",
+		"value": 117
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-11-25 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-11-25 00:00:00",
+		"value": 33
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-11-25 00:00:00",
+		"value": 86
+	}, {
+		"type": "Total Customers",
+		"name": "2022-11-25 00:00:00",
+		"value": 119
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-11-28 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-11-28 00:00:00",
+		"value": 34
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-11-28 00:00:00",
+		"value": 86
+	}, {
+		"type": "Total Customers",
+		"name": "2022-11-28 00:00:00",
+		"value": 120
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-11-29 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-11-29 00:00:00",
+		"value": 35
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-11-29 00:00:00",
+		"value": 87
+	}, {
+		"type": "Total Customers",
+		"name": "2022-11-29 00:00:00",
+		"value": 122
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-11-30 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-11-30 00:00:00",
+		"value": 36
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-11-30 00:00:00",
+		"value": 87
+	}, {
+		"type": "Total Customers",
+		"name": "2022-11-30 00:00:00",
+		"value": 123
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-12-01 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-12-01 00:00:00",
+		"value": 36
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-12-01 00:00:00",
+		"value": 88
+	}, {
+		"type": "Total Customers",
+		"name": "2022-12-01 00:00:00",
+		"value": 124
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-12-06 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-12-06 00:00:00",
+		"value": 36
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-12-06 00:00:00",
+		"value": 89
+	}, {
+		"type": "Total Customers",
+		"name": "2022-12-06 00:00:00",
+		"value": 125
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-12-07 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-12-07 00:00:00",
+		"value": 37
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-12-07 00:00:00",
+		"value": 90
+	}, {
+		"type": "Total Customers",
+		"name": "2022-12-07 00:00:00",
+		"value": 127
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-12-12 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-12-12 00:00:00",
+		"value": 38
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-12-12 00:00:00",
+		"value": 91
+	}, {
+		"type": "Total Customers",
+		"name": "2022-12-12 00:00:00",
+		"value": 129
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-12-13 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-12-13 00:00:00",
+		"value": 40
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-12-13 00:00:00",
+		"value": 91
+	}, {
+		"type": "Total Customers",
+		"name": "2022-12-13 00:00:00",
+		"value": 131
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-12-14 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-12-14 00:00:00",
+		"value": 42
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-12-14 00:00:00",
+		"value": 91
+	}, {
+		"type": "Total Customers",
+		"name": "2022-12-14 00:00:00",
+		"value": 133
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-12-15 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-12-15 00:00:00",
+		"value": 42
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-12-15 00:00:00",
+		"value": 92
+	}, {
+		"type": "Total Customers",
+		"name": "2022-12-15 00:00:00",
+		"value": 134
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-12-16 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-12-16 00:00:00",
+		"value": 43
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-12-16 00:00:00",
+		"value": 92
+	}, {
+		"type": "Total Customers",
+		"name": "2022-12-16 00:00:00",
+		"value": 135
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-12-19 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-12-19 00:00:00",
+		"value": 43
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-12-19 00:00:00",
+		"value": 93
+	}, {
+		"type": "Total Customers",
+		"name": "2022-12-19 00:00:00",
+		"value": 136
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-12-20 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-12-20 00:00:00",
+		"value": 43
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-12-20 00:00:00",
+		"value": 94
+	}, {
+		"type": "Total Customers",
+		"name": "2022-12-20 00:00:00",
+		"value": 137
+	}, {
+		"type": "Demo Customers",
+		"name": "2022-12-28 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2022-12-28 00:00:00",
+		"value": 44
+	}, {
+		"type": "Trial Customers",
+		"name": "2022-12-28 00:00:00",
+		"value": 94
+	}, {
+		"type": "Total Customers",
+		"name": "2022-12-28 00:00:00",
+		"value": 138
+	}, {
+		"type": "Demo Customers",
+		"name": "2023-01-03 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2023-01-03 00:00:00",
+		"value": 45
+	}, {
+		"type": "Trial Customers",
+		"name": "2023-01-03 00:00:00",
+		"value": 95
+	}, {
+		"type": "Total Customers",
+		"name": "2023-01-03 00:00:00",
+		"value": 140
+	}, {
+		"type": "Demo Customers",
+		"name": "2023-01-04 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2023-01-04 00:00:00",
+		"value": 46
+	}, {
+		"type": "Trial Customers",
+		"name": "2023-01-04 00:00:00",
+		"value": 95
+	}, {
+		"type": "Total Customers",
+		"name": "2023-01-04 00:00:00",
+		"value": 141
+	}, {
+		"type": "Demo Customers",
+		"name": "2023-01-16 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2023-01-16 00:00:00",
+		"value": 46
+	}, {
+		"type": "Trial Customers",
+		"name": "2023-01-16 00:00:00",
+		"value": 96
+	}, {
+		"type": "Total Customers",
+		"name": "2023-01-16 00:00:00",
+		"value": 142
+	}, {
+		"type": "Demo Customers",
+		"name": "2023-01-17 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2023-01-17 00:00:00",
+		"value": 46
+	}, {
+		"type": "Trial Customers",
+		"name": "2023-01-17 00:00:00",
+		"value": 97
+	}, {
+		"type": "Total Customers",
+		"name": "2023-01-17 00:00:00",
+		"value": 143
+	}, {
+		"type": "Demo Customers",
+		"name": "2023-01-19 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2023-01-19 00:00:00",
+		"value": 47
+	}, {
+		"type": "Trial Customers",
+		"name": "2023-01-19 00:00:00",
+		"value": 100
+	}, {
+		"type": "Total Customers",
+		"name": "2023-01-19 00:00:00",
+		"value": 147
+	}, {
+		"type": "Demo Customers",
+		"name": "2023-01-24 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2023-01-24 00:00:00",
+		"value": 47
+	}, {
+		"type": "Trial Customers",
+		"name": "2023-01-24 00:00:00",
+		"value": 101
+	}, {
+		"type": "Total Customers",
+		"name": "2023-01-24 00:00:00",
+		"value": 148
+	}, {
+		"type": "Demo Customers",
+		"name": "2023-01-25 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2023-01-25 00:00:00",
+		"value": 47
+	}, {
+		"type": "Trial Customers",
+		"name": "2023-01-25 00:00:00",
+		"value": 102
+	}, {
+		"type": "Total Customers",
+		"name": "2023-01-25 00:00:00",
+		"value": 149
+	}, {
+		"type": "Demo Customers",
+		"name": "2023-02-03 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2023-02-03 00:00:00",
+		"value": 47
+	}, {
+		"type": "Trial Customers",
+		"name": "2023-02-03 00:00:00",
+		"value": 103
+	}, {
+		"type": "Total Customers",
+		"name": "2023-02-03 00:00:00",
+		"value": 150
+	}, {
+		"type": "Demo Customers",
+		"name": "2023-02-07 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2023-02-07 00:00:00",
+		"value": 47
+	}, {
+		"type": "Trial Customers",
+		"name": "2023-02-07 00:00:00",
+		"value": 104
+	}, {
+		"type": "Total Customers",
+		"name": "2023-02-07 00:00:00",
+		"value": 151
+	}, {
+		"type": "Demo Customers",
+		"name": "2023-02-10 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2023-02-10 00:00:00",
+		"value": 47
+	}, {
+		"type": "Trial Customers",
+		"name": "2023-02-10 00:00:00",
+		"value": 106
+	}, {
+		"type": "Total Customers",
+		"name": "2023-02-10 00:00:00",
+		"value": 153
+	}, {
+		"type": "Demo Customers",
+		"name": "2023-02-13 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2023-02-13 00:00:00",
+		"value": 47
+	}, {
+		"type": "Trial Customers",
+		"name": "2023-02-13 00:00:00",
+		"value": 107
+	}, {
+		"type": "Total Customers",
+		"name": "2023-02-13 00:00:00",
+		"value": 154
+	}, {
+		"type": "Demo Customers",
+		"name": "2023-02-16 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2023-02-16 00:00:00",
+		"value": 48
+	}, {
+		"type": "Trial Customers",
+		"name": "2023-02-16 00:00:00",
+		"value": 107
+	}, {
+		"type": "Total Customers",
+		"name": "2023-02-16 00:00:00",
+		"value": 155
+	}, {
+		"type": "Demo Customers",
+		"name": "2023-02-22 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2023-02-22 00:00:00",
+		"value": 48
+	}, {
+		"type": "Trial Customers",
+		"name": "2023-02-22 00:00:00",
+		"value": 108
+	}, {
+		"type": "Total Customers",
+		"name": "2023-02-22 00:00:00",
+		"value": 156
+	}, {
+		"type": "Demo Customers",
+		"name": "2023-02-24 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2023-02-24 00:00:00",
+		"value": 49
+	}, {
+		"type": "Trial Customers",
+		"name": "2023-02-24 00:00:00",
+		"value": 108
+	}, {
+		"type": "Total Customers",
+		"name": "2023-02-24 00:00:00",
+		"value": 157
+	}, {
+		"type": "Demo Customers",
+		"name": "2023-03-01 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2023-03-01 00:00:00",
+		"value": 49
+	}, {
+		"type": "Trial Customers",
+		"name": "2023-03-01 00:00:00",
+		"value": 109
+	}, {
+		"type": "Total Customers",
+		"name": "2023-03-01 00:00:00",
+		"value": 158
+	}, {
+		"type": "Demo Customers",
+		"name": "2023-03-03 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2023-03-03 00:00:00",
+		"value": 49
+	}, {
+		"type": "Trial Customers",
+		"name": "2023-03-03 00:00:00",
+		"value": 110
+	}, {
+		"type": "Total Customers",
+		"name": "2023-03-03 00:00:00",
+		"value": 159
+	}, {
+		"type": "Demo Customers",
+		"name": "2023-03-06 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2023-03-06 00:00:00",
+		"value": 49
+	}, {
+		"type": "Trial Customers",
+		"name": "2023-03-06 00:00:00",
+		"value": 111
+	}, {
+		"type": "Total Customers",
+		"name": "2023-03-06 00:00:00",
+		"value": 160
+	}, {
+		"type": "Demo Customers",
+		"name": "2023-03-09 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2023-03-09 00:00:00",
+		"value": 50
+	}, {
+		"type": "Trial Customers",
+		"name": "2023-03-09 00:00:00",
+		"value": 111
+	}, {
+		"type": "Total Customers",
+		"name": "2023-03-09 00:00:00",
+		"value": 161
+	}, {
+		"type": "Demo Customers",
+		"name": "2023-03-10 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2023-03-10 00:00:00",
+		"value": 52
+	}, {
+		"type": "Trial Customers",
+		"name": "2023-03-10 00:00:00",
+		"value": 111
+	}, {
+		"type": "Total Customers",
+		"name": "2023-03-10 00:00:00",
+		"value": 163
+	}, {
+		"type": "Demo Customers",
+		"name": "2023-03-14 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2023-03-14 00:00:00",
+		"value": 54
+	}, {
+		"type": "Trial Customers",
+		"name": "2023-03-14 00:00:00",
+		"value": 111
+	}, {
+		"type": "Total Customers",
+		"name": "2023-03-14 00:00:00",
+		"value": 165
+	}, {
+		"type": "Demo Customers",
+		"name": "2023-03-15 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2023-03-15 00:00:00",
+		"value": 55
+	}, {
+		"type": "Trial Customers",
+		"name": "2023-03-15 00:00:00",
+		"value": 113
+	}, {
+		"type": "Total Customers",
+		"name": "2023-03-15 00:00:00",
+		"value": 168
+	}, {
+		"type": "Demo Customers",
+		"name": "2023-03-16 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2023-03-16 00:00:00",
+		"value": 55
+	}, {
+		"type": "Trial Customers",
+		"name": "2023-03-16 00:00:00",
+		"value": 114
+	}, {
+		"type": "Total Customers",
+		"name": "2023-03-16 00:00:00",
+		"value": 169
+	}, {
+		"type": "Demo Customers",
+		"name": "2023-03-22 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2023-03-22 00:00:00",
+		"value": 55
+	}, {
+		"type": "Trial Customers",
+		"name": "2023-03-22 00:00:00",
+		"value": 115
+	}, {
+		"type": "Total Customers",
+		"name": "2023-03-22 00:00:00",
+		"value": 170
+	}, {
+		"type": "Demo Customers",
+		"name": "2023-03-28 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2023-03-28 00:00:00",
+		"value": 57
+	}, {
+		"type": "Trial Customers",
+		"name": "2023-03-28 00:00:00",
+		"value": 116
+	}, {
+		"type": "Total Customers",
+		"name": "2023-03-28 00:00:00",
+		"value": 173
+	}, {
+		"type": "Demo Customers",
+		"name": "2023-04-06 00:00:00",
+		"value": 0
+	}, {
+		"type": "Paid Customers",
+		"name": "2023-04-06 00:00:00",
+		"value": 57
+	}, {
+		"type": "Trial Customers",
+		"name": "2023-04-06 00:00:00",
+		"value": 118
+	}, {
+		"type": "Total Customers",
+		"name": "2023-04-06 00:00:00",
+		"value": 175
+	}]
+}
