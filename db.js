@@ -102,21 +102,47 @@ function defineModel(name, attributes) {
         tableName: name,
         timestamps: false,
         hooks: {
+            // 强制为每一行都更新
+            beforeBulkUpdate: function(options) {
+                options.individualHooks = true
+            },
+            /*// 或者在每一次update时激活这个options
+            await myTest.update({ testName: 'xxxx' },
+            {
+                where: {
+                id: '567f41c4ceb7447aacf5900b07dde205'
+                },
+                individualHooks: true
+            })
+            */
             beforeValidate: function(obj) {
-                let now = Date.now();
                 if (obj.isNewRecord) {
                     console.log('will create entity...' + obj);
                     // if (!obj.id) {
                     //     obj.id = generateId();
                     // }
-                    obj.createdAt = now;
-                    obj.updatedAt = now;
-                    obj.version = 0;
-                } else {
-                    console.log('will update entity...');
-                    obj.updatedAt = now;
-                    obj.version++;
+                    const now = Date.now()
+                    obj.createdAt = now
+                    obj.updatedAt = now
+                        // obj.version = 0;
                 }
+            },
+            /*不执行？？
+            beforeCreate(instance, options) {
+                console.log('beforeCreate...');
+                // if (!instance.id) {
+                //     instance.id = generateId()
+                // }
+                const now = Date.now()
+                instance.createdAt = now
+                instance.updatedAt = now
+                // obj.version = 0;
+            },
+            */
+            beforeUpdate(instance) {
+                console.log('beforeUpdate...');
+                instance.updatedAt = Date.now()
+                    // obj.version++;
             }
         }
     });

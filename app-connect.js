@@ -11,7 +11,7 @@ app.use(bodyParser.json()); //json请求
 app.use(bodyParser.urlencoded({
     extended: false
 })); //表单请求
-app.listen(9000, () => console.log("服务启动,访问地址为：9000"));
+app.listen(9001, () => console.log("服务启动,访问地址为：9001"));
 app.use(cookieParser());
 
 const router = express.Router();
@@ -30,7 +30,7 @@ const connPool = function() {
         connectTimeout: 5000,
         multipleStatements: false, //是否允许一个query包含多条sql语句
         waitForConnections: true, //当无连接可用时，等待还是抛错
-        connectLimit: 100, //连接数
+        connectLimit: 1000, //连接数
         queueLimit: 0 //最大连接等待数（0为不限制）
     }); //创建连接池
 
@@ -95,45 +95,10 @@ const redisCache = function() {
         }
     }
 };
-/*
-error_code:错误列表
 
-error_code: 400,
-message: '请求错误',//具体错误信息
-
-error_code: 1001,
-message: '参数错误或缺失',
-
-error_code: 1002,
-message: '未登录或登录过期',
-
-*/
-function Result({
-    error_code = 0,
-    message = 'request:OK!',
-    data = {}
-}) {
-    this.error_code = error_code;
-    this.message = message;
-    this.data = data;
-}
 module.exports = {
     app,
     connPool,
     router,
-    Result,
     redisCache
 };
-/*
-const app2 = express();
-app2.listen(8082, () => console.log("服务启动,访问地址为：8082"));
-//决定展示什么内容
-app2.all('/changeContent', (req, res) => {
-    var obj = {
-        isShowView0: true
-    }
-    res.json(new Result({
-        data: obj
-    }))
-})
-*/
