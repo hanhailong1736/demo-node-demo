@@ -6,6 +6,7 @@ const redis = require('redis');
 // const uuid = require('node-uuid');
 const app = express()
 app.use(cors()); //解决跨越
+app.use(bodyParser.json({ limit: '20mb' })); //json请求
 app.use(bodyParser.json()); //json请求
 //application/x-www-form        {extended:true}
 app.use(bodyParser.urlencoded({
@@ -14,7 +15,7 @@ app.use(bodyParser.urlencoded({
 app.listen(9001, () => console.log("服务启动,访问地址为：9001"));
 app.use(cookieParser());
 
-const router = express.Router();
+/*
 const mysql = require('mysql');
 
 const config = require('./config')
@@ -34,18 +35,25 @@ const connPool = function() {
         queueLimit: 0 //最大连接等待数（0为不限制）
     }); //创建连接池
 
-    conn.on('error', function(err) {
-        console.log('db error', err);
-        // 如果是连接断开，自动重新连接
-        if (err.code === 'PROTOCOL_CONNECTION_LOST') {
-            setTimeout(connPool, 2000);
-        } else {
-            throw err;
-        }
-    });
-    return conn;
+let service = function(sql, values) {
+    return new Promise((resolve, reject) => {
+        pool.getConnection(function(err, conn) {
+            if (err) {
+                reject(err)
+            } else {
+                conn.query(sql, values, (err, rows) => {
+                    if (err) {
+                        reject(err)
+                    } else {
+                        resolve(rows)
+                    }
+                    conn.release()
+                })
+            }
+        })
+    })
 }
-
+*/
 
 const createRedis = function() {
     if (!this.cacherTask) {

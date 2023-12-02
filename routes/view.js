@@ -2,7 +2,6 @@ const { app, router } = require('../app-connect');
 const Result = require('../utils/tool');
 var jwt = require('jsonwebtoken');
 
-
 app.use('/', require('../controllers/common'));
 app.use((req, res, next) => {
     // 不同形式获取token值
@@ -33,3 +32,4 @@ app.use((req, res, next) => {
     }
 });
 app.use('/login', require('../controllers/login'))
+const { app } = require('../app-connect');
