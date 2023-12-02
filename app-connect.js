@@ -20,7 +20,7 @@ const mysql = require('mysql');
 
 const config = require('./config')
 
-//定义连接池
+//定义连接池u
 const connPool = function() {
     const conn = mysql.createPool({
         host: config.host,
