@@ -106,7 +106,5 @@ const redisCache = function() {
 
 module.exports = {
     app,
-    connPool,
-    router,
     redisCache
 };

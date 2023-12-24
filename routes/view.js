@@ -32,4 +32,3 @@ app.use((req, res, next) => {
     }
 });
 app.use('/login', require('../controllers/login'))
-const { app } = require('../app-connect');
