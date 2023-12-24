@@ -18,7 +18,7 @@ router.all("/hone/statisticsReport", async (req, res) => {
     );
     return
   }
-  let url = `https://ssdm-manage-qa.ss.honeywell.com.cn/statisticsReport?type=${params.type}&env=${params.env}&timezone=UTC-5&format=yyyy-MM-dd`;
+  let url = `https://ssdm-stage-manage.ss.honeywell.com.cn/statisticsReport?type=${params.type}&env=${params.env}&timezone=UTC-5&format=yyyy-MM-dd`;
   request(
     {
       url: url, //请求路径
