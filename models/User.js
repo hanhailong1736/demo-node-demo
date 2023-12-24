@@ -7,12 +7,12 @@ module.exports = db.defineModel('user', {
         allowNull: false,
         autoIncrement: true
     },
-    nickName: db.STRING(20), //昵称
     account: {
         type: db.STRING(20),
         allowNull: false,
         unique: true
     }, //账号
     password: db.STRING(20), //密码
-    avatarUrl: db.STRING(100), //头像
+    nickName: db.STRING(20),
+    mobile: db.STRING(20)
 });

@@ -12,35 +12,28 @@ app.use(bodyParser.json()); //json请求
 app.use(bodyParser.urlencoded({
     extended: false
 })); //表单请求
-app.listen(9006, () => console.log("服务启动,访问地址为：9006"));
+app.listen(9001, () => console.log("服务启动,访问地址为：9001"));
 app.use(cookieParser());
 
 /*
 const mysql = require('mysql');
 
-const config = require('../config')
-    //定义连接池
-const pool = mysql.createPool({
-    host: config.host,
-    user: config.username,
-    password: config.password,
-    database: config.database,
-    port: config.port,
-    connectTimeout: 5000,
-    multipleStatements: false, //是否允许一个query包含多条sql语句
-    waitForConnections: true, //当无连接可用时，等待还是抛错
-    connectLimit: 1000, //连接数
-    queueLimit: 0 //最大连接等待数（0为不限制）
-}); //创建连接池
-pool.on('error', function(err) {
-    console.log('db error', err);
-    // 如果是连接断开，自动重新连接
-    if (err.code === 'PROTOCOL_CONNECTION_LOST') {
-        setTimeout(connPool, 2000);
-    } else {
-        throw err;
-    }
-});
+const config = require('./config')
+
+//定义连接池u
+const connPool = function() {
+    const conn = mysql.createPool({
+        host: config.host,
+        user: config.username,
+        password: config.password,
+        database: config.database,
+        port: config.port,
+        connectTimeout: 5000,
+        multipleStatements: false, //是否允许一个query包含多条sql语句
+        waitForConnections: true, //当无连接可用时，等待还是抛错
+        connectLimit: 1000, //连接数
+        queueLimit: 0 //最大连接等待数（0为不限制）
+    }); //创建连接池
 
 let service = function(sql, values) {
     return new Promise((resolve, reject) => {
@@ -113,18 +106,7 @@ const redisCache = function() {
 
 module.exports = {
     app,
+    connPool,
+    router,
     redisCache
 };
-/*
-const app2 = express();
-app2.listen(8082, () => console.log("服务启动,访问地址为：8082"));
-//决定展示什么内容
-app2.all('/changeContent', (req, res) => {
-    var obj = {
-        isShowView0: true
-    }
-    res.json(new Result({
-        data: obj
-    }))
-})
-*/

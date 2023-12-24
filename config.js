@@ -3,9 +3,9 @@ var isDevelopment = NODE_ENV == 'development' ? true : false;
 
 var config = {
     dialect: 'mysql',
-    database: 'youxi',
+    database: 'excel',
     username: 'root',
-    password: isDevelopment ? "pass" : '',
+    password: isDevelopment ? "HaiLong1736&" : 'HaiLong1736&',
     host: 'localhost',
     port: 3306
 };

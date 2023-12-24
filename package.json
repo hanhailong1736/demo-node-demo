@@ -1,18 +1,18 @@
 {
     "name": "demo",
     "version": "1.0.0",
-    "description": "> 作者：韩海龙 <hlmyprivate@163.com> 后端项目demo",
+    "description": "> 作者：韩海龙 <hlmyprivate@163.com> 后端项目excel",
     "main": "app.js",
     "scripts": {
         "create": "cross-env NODE_ENV=development node init-db.js",
-        "start": "cross-env NODE_ENV=development hotnode youxi-app.js",
-        "create-online": "cross-env NODE_ENV=production node init-db.js",
-        "start-online": "cross-env NODE_ENV=production node youxi-app.js",
-        "build": "cross-env NODE_ENV=production pm2 start youxi-app.js --watch"
+        "start": "cross-env NODE_ENV=development hotnode demo-app.js",
+        "create-online": "env NODE_ENV=production node init-db.js",
+        "start-online": "env NODE_ENV=production node demo-app.js",
+        "build": "env NODE_ENV=production pm2 start demo-app.js --watch"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/hanhailong1736/node-demo.git"
+        "url": "git+https://github.com/hanhailong1736/node-excel.git"
     },
     "author": "hanhailong",
     "license": "ISC",
@@ -35,6 +35,7 @@
         "mysql2": "^2.1.0",
         "node-uuid": "^1.4.8",
         "nodemailer": "^6.4.10",
+        "openai": "^4.20.0",
         "redis": "^3.0.2",
         "request": "^2.88.0",
         "sequelize": "^6.30.0",
@@ -43,7 +44,7 @@
         "xml2js": "^0.4.23",
         "xmlreader": "^0.2.3"
     },
-    "homepage": "https://github.com/hanhailong1736/node-demo#readme",
+    "homepage": "https://github.com/hanhailong1736/node-excel#readme",
     "devDependencies": {
         "cross-env": "^7.0.2"
     }
